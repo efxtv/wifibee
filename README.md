@@ -13,7 +13,7 @@
 - **Main Wireless Utilities:** Aircrack-ng suite and `iw`
 - **Authorization Requirement:** Only test networks you own or have explicit permission to assess
 
-## 2. FEATURES
+## 2. FEATURES of pro version
 
 ### A. Interactive Terminal Interface
 
